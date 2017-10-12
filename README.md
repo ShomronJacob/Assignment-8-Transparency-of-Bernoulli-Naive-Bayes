@@ -1,1 +1,1 @@
-# Transparency-of-Bernoulli-Na-ve-Bayes
+# Transparency-of-Bernoulli-Naive-Bayes
